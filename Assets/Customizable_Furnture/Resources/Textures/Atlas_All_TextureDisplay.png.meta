@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 9ee2a70a17aead640bf2af923e095987
+timeCreated: 1472599579
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rug_0
+    21300002: Rug_1
+    21300004: Rug_2
+    21300006: Rug_3
+    21300008: Wood_0
+    21300010: Wood_1
+    21300012: Wood_2
+    21300014: Wood_3
+    21300016: Wood_4
+    21300018: Wood_5
+    21300020: Wood_6
+    21300022: Wood_7
+    21300024: Marble_0
+    21300026: Marble_1
+    21300028: Marble_2
+    21300030: Marble_3
+    21300032: Cloth_0
+    21300034: Cloth_1
+    21300036: Cloth_2
+    21300038: Cloth_3
+    21300040: Cloth_4
+    21300042: Cloth_5
+    21300044: Cloth_6
+    21300046: Cloth_7
+    21300048: LED_0
+    21300050: LED_1
+    21300052: LED_2
+    21300054: LED_3
+    21300056: LED_4
+    21300058: LED_5
+    21300060: LED_6
+    21300062: LED_7
+    21300064: Leather_0
+    21300066: Leather_1
+    21300068: Leather_2
+    21300070: Leather_3
+    21300072: Metal_0
+    21300074: Metal_1
+    21300076: Plastic_0
+    21300078: Plastic_1
+    21300080: Plastic_2
+    21300082: Plastic_3
+    21300084: Plastic_4
+    21300086: Plastic_6
+    21300088: Plastic_8
+    21300090: Plastic_10
+    21300092: Plastic_12
+    21300094: Plastic_14
+    21300096: Granite_2
+    21300098: Granite_1
+    21300100: Granite_0
+    21300102: Metal_2
+    21300104: Metal_3
+    21300106: Quarry_0
+    21300108: Quarry_1
+    21300110: Quarry_2
+    21300112: Quarry_3
+    21300114: Quarry_4
+    21300116: Quarry_5
+    21300118: Granite_3
+    21300120: Plastic_5
+    21300122: Plastic_7
+    21300124: Plastic_9
+    21300126: Plastic_11
+    21300128: Plastic_13
+    21300130: Plastic_15
+    21300132: LampScreen_0
+    21300134: LampScreen_1
+    21300136: LampScreen_2
+    21300138: LampScreen_3
+    21300140: LampScreen_4
+    21300142: LampScreen_5
+    21300144: LampScreen_6
+    21300146: LampScreen_7
+    21300148: Metal_4
+    21300150: Metal_5
+    21300152: Metal_6
+    21300154: Metal_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rug_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Rug_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Rug_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Rug_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Wood_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Marble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Marble_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Marble_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Marble_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Cloth_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 227
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 227
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 170
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 170
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LED_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 170
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Leather_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Leather_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Leather_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Leather_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 227
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 170
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Granite_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Granite_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Granite_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Quarry_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Quarry_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Quarry_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Quarry_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Quarry_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Quarry_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Granite_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 227
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 170
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Plastic_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_0
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 455
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 398
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 341
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 284
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 227
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 170
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 113
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: LampScreen_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 56
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    - name: Metal_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -28.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
